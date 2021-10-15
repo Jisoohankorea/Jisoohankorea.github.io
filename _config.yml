@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Name"
-  avatar           : "/assets/images/asdfgh.jpg"# /assets/images/asdfgh.png path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/ffle.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
